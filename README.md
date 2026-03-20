@@ -96,7 +96,7 @@
 
 ### 🎬 比赛视频
 
-> 📌 **占位符：** 请将比赛现场视频上传至 B站 / YouTube，并将链接替换到此处。
+> 📌 暂无
 >
 > [![比赛视频](https://img.shields.io/badge/▶_观看比赛视频-点击跳转-red?style=for-the-badge&logo=youtube)](https://www.bilibili.com/YOUR_VIDEO_ID)
 
@@ -316,6 +316,6 @@ project/Seekfree_STC32F12K_Opensource_Library/Project/MDK/SEEKFREE.uvproj
 
 <div align="center">
 
-Made with ❤️ by **兰博基尼队** · 北京交通大学威海校区 · 2024
+Made with ❤️ by **兰博基尼队** · 北京交通大学 · 2024
 
 </div>
